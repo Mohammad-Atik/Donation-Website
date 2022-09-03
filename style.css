@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  background-color: antiquewhite;
+}
+
+h1 {
+  font-size: 50px;
+  color: aliceblue;
+  font-weight: bold;
+}
+span {
+  color: orangered;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+.banner {
+  background-image: url(/images/banner.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding: 15%;
+}
