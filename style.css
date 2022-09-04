@@ -41,12 +41,9 @@ p {
   text-decoration: none;
   background-color: orange;
   color: aliceblue;
-  font-weight: bold;
-  padding: 10px 35px;
-  border: 3px solid orange;
+  padding: 13px 55px;
+  border: 1px solid orange;
   border-radius: 6px;
-  width: 50%;
-  margin: 50%;
 }
 
 /* Second Section */
@@ -58,7 +55,6 @@ p {
   width: 75%;
   margin: auto;
   display: flex;
-  align-items: center;
 }
 
 .donation-heading {
@@ -157,6 +153,68 @@ p {
 .charity-section {
   margin-top: 50px;
   margin-bottom: 100px;
+}
+
+/* Fifth Section */
+
+hr {
+  width: 50%;
+  margin-bottom: 30px;
+}
+.amount-heading {
+  color: black;
+}
+.amount-paragraph {
+  color: black;
+}
+
+.amount {
+  text-align: center;
+  margin-top: 50px;
+  border: none;
+  padding: 10px 0;
+}
+
+.flex-amount-container {
+  display: flex;
+}
+.donate-now-section {
+  text-align: center;
+  background-color: lavender;
+  margin-bottom: 50px;
+  padding: 100px;
+}
+.amount-headings {
+  width: 50%;
+  margin: auto;
+  border: 1px solid antiquewhite;
+  border-radius: 7px;
+  box-shadow: 10px 10px 10px 5px gray;
+  margin: 10px 30px;
+  padding: 40px 15px;
+  text-align: center;
+  background-color: linen;
+}
+
+/* Last Section */
+.form-container {
+  text-align: center;
+  padding: 100px 50px;
+  margin: 50px 400px;
+  background-color: powderblue;
+}
+.form-input {
+  padding: 10px 40px;
+  border-radius: 5px;
+}
+#submit-btn {
+  background-color: tomato;
+  border-radius: 5px;
+  color: aliceblue;
+}
+.form-heading {
+  font-size: xx-large;
+  text-align: center;
 }
 
 /* Footer */
