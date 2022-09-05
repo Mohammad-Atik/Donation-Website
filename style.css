@@ -30,7 +30,7 @@ p {
 
 /* First Section */
 .banner {
-  background-image: url(/images/banner.jpg);
+  background-image: url(./images/banner.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
   padding: 10%;
@@ -88,7 +88,7 @@ p {
 /* Third Section */
 
 .children-img {
-  background-image: url(./images/larm-rmah-AEaTUnvneik-unsplash.jpg);
+  background-image: url(./images/jo-szczepanska-Cp-b69OOyN4-unsplash.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
   margin-left: 100px;
@@ -129,7 +129,7 @@ p {
   text-align: center;
 }
 .charity-element3 {
-  background-image: url(./images/jo-szczepanska-Cp-b69OOyN4-unsplash.jpg);
+  background-image: url(./images/larm-rmah-AEaTUnvneik-unsplash.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
   margin-left: 50px;
