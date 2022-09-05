@@ -88,7 +88,7 @@ p {
 /* Third Section */
 
 .children-img {
-  background-image: url(/images/larm-rmah-AEaTUnvneik-unsplash.jpg);
+  background-image: url(./images/larm-rmah-AEaTUnvneik-unsplash.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
   margin-left: 100px;
@@ -115,21 +115,21 @@ p {
 /* Fourth Section */
 
 .charity-element1 {
-  background-image: url(/images/joel-muniz-3k3l2brxmwQ-unsplash.jpg);
+  background-image: url(./images/joel-muniz-3k3l2brxmwQ-unsplash.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
   margin-left: 50px;
   text-align: center;
 }
 .charity-element2 {
-  background-image: url(/images/elyse-chia-kyeJW1zRH0I-unsplash.jpg);
+  background-image: url(./images/elyse-chia-kyeJW1zRH0I-unsplash.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
   margin-left: 50px;
   text-align: center;
 }
 .charity-element3 {
-  background-image: url(/images/jo-szczepanska-Cp-b69OOyN4-unsplash.jpg);
+  background-image: url(./images/jo-szczepanska-Cp-b69OOyN4-unsplash.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
   margin-left: 50px;
